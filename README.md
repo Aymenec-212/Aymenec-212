@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Aymen 👋</h1>
 
-<!--
-**Aymenec-212/Aymenec-212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+MSc+Student;Python+%7C+Django+%7C+Pandas;Lifelong+Learner+%7C+AI+Explorer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 🎓 MSc in Data Science at ENSA Khouribga
+- 🧠 Passionate about AI, NLP, and Educational Tech
+- 🛠️ Currently exploring **Django**, **Big Data**, and **Generative AI**
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=google-light" alt="GitHub Stats" />
+</p>
+
+---
+
+### ✨ Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎓 [StudyGPT](https://github.com/yourusername/StudyGPT) | Educational RAG assistant with flashcards and mindmaps | LangChain, MongoDB |
+| 📊 [EnergySaver](https://github.com/yourusername/EnergySaver) | Real-time energy optimization app for households | Django, MQTT |
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=Google-Chrome)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-aymen@domain.com-red?style=flat-square&logo=gmail)](mailto:aymen@domain.com)
+
+---
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/main/assets/wave.svg" />
+</p>
