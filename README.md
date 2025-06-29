@@ -27,7 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=google-light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymenec-212&show_icons=true&theme=google-light" alt="GitHub Stats" />
 </p>
 
 ---
@@ -36,19 +36,17 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎓 [StudyGPT](https://github.com/yourusername/StudyGPT) | Educational RAG assistant with flashcards and mindmaps | LangChain, MongoDB |
-| 📊 [EnergySaver](https://github.com/yourusername/EnergySaver) | Real-time energy optimization app for households | Django, MQTT |
-
+| 🎓 [StudyGPT](https://github.com/Aymenec-212/AutoRevise) | Educational RAG assistant with flashcards and mindmaps | LangChain, MongoDB |
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/echchalim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=Google-Chrome)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-aymen@domain.com-red?style=flat-square&logo=gmail)](mailto:aymen@domain.com)
+[![Email](https://img.shields.io/badge/Email-aymen@domain.com-red?style=flat-square&logo=gmail)](mailto:aymen.echchalim@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/assets/wave.svg" />
+  <img src="https://github.com/Aymenec-212/Aymenec-212/raw/main/assets/wave.svg" />
 </p>
