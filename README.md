@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Aymen%20Ec&fontColor=C5A572&fontSize=40&fontAlign=50)
+
 # 👋 Aymen Ec
 
 > “Winners don’t make excuses when the other side plays the game.”  
