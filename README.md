@@ -22,11 +22,11 @@ I’m a **Data Science & AI Engineer in training** — blending mathematics, sof
 ---
 
 ### 📈 My Stats
-![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenec&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=C5A572&icon_color=C5A572)
+![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenec-212&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=C5A572&icon_color=C5A572)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenec&layout=compact&hide_border=true&theme=transparent&text_color=C5A572)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenec-212&layout=compact&hide_border=true&theme=transparent&text_color=C5A572)
 
 ---
 
 ### 🕶️ Connect
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/echchalim) • [Portfolio](https://yourportfolio.com)
