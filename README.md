@@ -30,20 +30,21 @@
 
 <br>
 
-I architect intelligent systems at the intersection of **mathematics, engineering, and strategy** — where precision meets innovation.
+I build intelligent systems that bridge **research and real-world impact** — blending mathematical rigor with engineering execution.  
+My work explores how **LLMs, knowledge graphs, and self-supervised learning** can be designed to reason, adapt, and scale responsibly.
 
 <br>
 
 ## Expertise
 
 **Research Focus**  
-Self-Supervised Learning • Retrieval-Augmented Generation • Graph-Based Intelligence
+Agentic AI • Retrieval-Augmented Generation (RAG) • Self-Supervised Learning for Matching • Knowledge Graph Construction
 
 **Technical Arsenal**  
-`Python` `PyTorch` `TensorFlow` `Manim` `NumPy` `Pandas` `Scikit-learn` `Hadoop` `Spark`
+`Python` `LangChain` `Hugging Face` `Neo4j` `PyTorch` `FastAPI` `Google Cloud` `Docker` `SQL` `BigQuery`
 
 **Approach**  
-Data-driven decision making • Model optimization • Scalable architecture design
+From research to production: I design **interpretable, scalable, and adaptive** AI systems that connect structured reasoning with real-world data workflows.
 
 <br>
 
@@ -64,7 +65,8 @@ Data-driven decision making • Model optimization • Scalable architecture des
 
 ## Recent Work
 
-<!-- Add your pinned repositories or featured projects here -->
+- **Agentic Knowledge Graph Construction for RAG** – multi-agent framework for building and refining knowledge graphs using LLMs, enabling more factual and interpretable retrieval systems.  
+- **Self-Supervised Resume–Job Matching** – AI research on fair and explainable candidate–position matching; investigating how generative models can introduce bias and exploring more robust self-supervised alternatives.  
 
 <br>
 
