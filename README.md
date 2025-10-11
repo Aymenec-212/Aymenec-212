@@ -2,12 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=&fontSize=0)
 
-<img src="https://countdown-5ibl.vercel.app/api/countdown" alt="Countdown" />
+<img src="https://countdown-5ibl-c4l0guafp-aymenec-212s-projects.vercel.app/api/countdown" alt="Countdown" />
 </div>
-
 <div align="center">
 
-# AYMEN EC
+# AYMEN ECHCHALIM
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=C5A572&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Engineer;Research+%7C+Strategy+%7C+Innovation;Building+Intelligence+That+Scales" alt="Typing SVG" />
 
