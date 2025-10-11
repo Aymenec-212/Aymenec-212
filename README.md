@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=&fontSize=0)
 
-<img src="https://countdown-5ibl-c4l0guafp-aymenec-212s-projects.vercel.app/api/countdown" alt="Countdown" />
+<img src="https://countdown-5ibl.vercel.app/api/countdown" alt="Countdown" />
 </div>
 <div align="center">
 
