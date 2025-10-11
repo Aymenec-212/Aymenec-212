@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Aymen%20Ec&fontColor=C5A572&fontSize=40&fontAlign=50)
+[![Aymen’s graph](https://github-readme-activity-graph.vercel.app/graph?username=aymenec-212&bg_color=0D1117&color=C5A572&line=C5A572&point=888&hide_border=true)](https://github.com/aymenec-212)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=motivational&text_color=C5A572)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=C5A572&width=435&lines=Data+Scientist;AI+Researcher;Code+Strategist)](https://git.io/typing-svg)
 
 # 👋 Aymen Ec
 
