@@ -31,7 +31,7 @@
 <br>
 
 I build intelligent systems that combine **data, design, and reasoning**.  
-My work spans from AI-driven tutoring and retrieval systems to scalable data pipelines — always focused on **clarity, usability, and measurable impact**.
+My work spans from AI-driven tutoring and retrieval systems to scalable data pipelines, always focused on **clarity, usability, and measurable impact**.
 
 <br>
 
@@ -44,7 +44,7 @@ Retrieval-Augmented Generation (RAG) • Agentic Workflows • NLP Systems • K
 `Python` `LangChain` `Neo4j` `FastAPI` `Hugging Face` `PyTorch` `Pandas` `Scikit-learn` `Google Cloud` `BigQuery` `Looker Studio`
 
 **Approach**  
-I design **reliable, context-aware, and production-ready** AI applications — combining experimentation with solid engineering practices.
+I design **reliable, context-aware, and production-ready** AI applications, combining experimentation with solid engineering practices.
 
 <br>
 
@@ -65,10 +65,10 @@ I design **reliable, context-aware, and production-ready** AI applications — c
 
 ## Recent Work
 
-- **Agentic Knowledge Graph Construction for RAG** – built a multi-agent system for automated graph creation and refinement, improving factual consistency and retrieval efficiency.  
-- **AI-Powered Tutoring Platform** – designed a system that restructures educational materials into session-based learning paths with summaries, quizzes, flashcards, and mind maps.  
-- **Retrieval-Augmented Generation System** – implemented a custom RAG pipeline with context tracking and validation to enhance grounded responses.  
-- **End-to-End Big Data Pipeline on Google Cloud** – deployed a real-time event-driven ETL architecture with Cloud Functions, Dataflow, BigQuery, and Looker Studio dashboards.  
+- **Agentic Knowledge Graph Construction for RAG** : built a multi-agent system for automated graph creation and refinement, improving factual consistency and retrieval efficiency.  
+- **AI-Powered Tutoring Platform** : designed a system that restructures educational materials into session-based learning paths with summaries, quizzes, flashcards, and mind maps.  
+- **Retrieval-Augmented Generation System** : implemented a custom RAG pipeline with context tracking and validation to enhance grounded responses.  
+- **End-to-End Big Data Pipeline on Google Cloud** : deployed a real-time event-driven ETL architecture with Cloud Functions, Dataflow, BigQuery, and Looker Studio dashboards.  
 
 <br>
 
