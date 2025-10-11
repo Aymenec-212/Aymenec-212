@@ -8,7 +8,7 @@
 
 # AYMEN ECHCHALIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=C5A572&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Engineer;Research+%7C+Strategy+%7C+Innovation;Building+Intelligence+That+Scales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=C5A572&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Engineer;Applied+Intelligence+%7C+Systems+Design;Turning+Ideas+into+Working+Intelligence" alt="Typing SVG" />
 
 </div>
 
@@ -30,21 +30,21 @@
 
 <br>
 
-I build intelligent systems that bridge **research and real-world impact** — blending mathematical rigor with engineering execution.  
-My work explores how **LLMs, knowledge graphs, and self-supervised learning** can be designed to reason, adapt, and scale responsibly.
+I build intelligent systems that combine **data, design, and reasoning**.  
+My work spans from AI-driven tutoring and retrieval systems to scalable data pipelines — always focused on **clarity, usability, and measurable impact**.
 
 <br>
 
 ## Expertise
 
-**Research Focus**  
-Agentic AI • Retrieval-Augmented Generation (RAG) • Self-Supervised Learning for Matching • Knowledge Graph Construction
+**Core Focus**  
+Retrieval-Augmented Generation (RAG) • Agentic Workflows • NLP Systems • Knowledge Graphs • Data Pipelines  
 
-**Technical Arsenal**  
-`Python` `LangChain` `Hugging Face` `Neo4j` `PyTorch` `FastAPI` `Google Cloud` `Docker` `SQL` `BigQuery`
+**Technical Stack**  
+`Python` `LangChain` `Neo4j` `FastAPI` `Hugging Face` `PyTorch` `Pandas` `Scikit-learn` `Google Cloud` `BigQuery` `Looker Studio`
 
 **Approach**  
-From research to production: I design **interpretable, scalable, and adaptive** AI systems that connect structured reasoning with real-world data workflows.
+I design **reliable, context-aware, and production-ready** AI applications — combining experimentation with solid engineering practices.
 
 <br>
 
@@ -65,8 +65,10 @@ From research to production: I design **interpretable, scalable, and adaptive** 
 
 ## Recent Work
 
-- **Agentic Knowledge Graph Construction for RAG** – multi-agent framework for building and refining knowledge graphs using LLMs, enabling more factual and interpretable retrieval systems.  
-- **Self-Supervised Resume–Job Matching** – AI research on fair and explainable candidate–position matching; investigating how generative models can introduce bias and exploring more robust self-supervised alternatives.  
+- **Agentic Knowledge Graph Construction for RAG** – built a multi-agent system for automated graph creation and refinement, improving factual consistency and retrieval efficiency.  
+- **AI-Powered Tutoring Platform** – designed a system that restructures educational materials into session-based learning paths with summaries, quizzes, flashcards, and mind maps.  
+- **Retrieval-Augmented Generation System** – implemented a custom RAG pipeline with context tracking and validation to enhance grounded responses.  
+- **End-to-End Big Data Pipeline on Google Cloud** – deployed a real-time event-driven ETL architecture with Cloud Functions, Dataflow, BigQuery, and Looker Studio dashboards.  
 
 <br>
 
@@ -78,7 +80,7 @@ From research to production: I design **interpretable, scalable, and adaptive** 
 
 <br>
 
-**Building the future, one commit at a time.**
+**Engineering clarity from complexity.**
 
 <br>
 
