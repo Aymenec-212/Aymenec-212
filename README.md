@@ -139,4 +139,6 @@ ss components feeding analytics-ready storage and dashboards.
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=90&section=footer&text=&fontSize=0)
 
+![My GitHub Space Shooter](game.gif)
+
 </div>
