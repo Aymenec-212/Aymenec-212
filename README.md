@@ -29,7 +29,7 @@ Data scientist based in Casablanca. I prefer building robust, agentic workflows 
 
 I focus on **RAG, NLP, and Agentic Systems**. Some of my favorite creations:
 - **Legal RAG System:** Automated analysis for Moroccan legal docs with 98% retrieval precision.
-- **CAN2025 Assistant:** A multimodal, agentic copilot for the upcoming Africa Cup of Nations.
+- **CAN2025 Assistant:** A multimodal, agentic copilot for the recent Africa Cup of Nations.
 - **Lumina Bank Copilot:** A privacy-first, secure banking assistant with strict tool-access controls.
 
 ---
