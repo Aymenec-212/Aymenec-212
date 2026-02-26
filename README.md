@@ -1,7 +1,7 @@
 <div align="center">
 
 # AYMEN ECHCHALIM
-**ML Engineer · Data Scientist · Builder**
+**ML Engineer · Data Scientist · Builder** ⵣ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-echchalim-0D1117?style=flat&logo=linkedin&logoColor=C5A572&labelColor=0D1117&color=1F242C)](https://linkedin.com/in/echchalim)
 [![GitHub](https://img.shields.io/badge/GitHub-Aymenec--212-0D1117?style=flat&logo=github&logoColor=C5A572&labelColor=0D1117&color=1F242C)](https://github.com/Aymenec-212)
